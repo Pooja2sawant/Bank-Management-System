@@ -4,10 +4,7 @@ A Database Management System (DBMS) mini project for managing a bank's operation
 
 A comprehensive **Bank Management System** project designed and developed using **PostgreSQL** as part of the **Database Management Systems (DBMS)** curriculum.
 
-> 🎓 Submitted by: **Pooja Sawant**  
-> 📚 Program: Bachelor of Management Studies (BMS)  
-> 📅 Year: 2025
-
+> 🎓 Submitted by : **Pooja Sawant**
 ---
 
 ## 🧩 Table of Contents
